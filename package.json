@@ -1,0 +1,19 @@
+{
+  "name": "villestestapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://villestestapp@villestestapp.scm.azurewebsites.net:443/Villestestapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "mocha": "^3.2.0"
+  }
+}
